@@ -42,6 +42,12 @@
         padding-top: 15% !important;
     }
 
+    .left-container{
+        overflow-x: hidden !important;
+        height: 100% !important;
+        overscroll-behavior-block: hidden;
+    }
+
    
 }
 
@@ -56,7 +62,7 @@ main{
 .left-container{
     flex: 1;
     padding: 2%;
-    overflow-x: hidden;
+    
 
 }
 
