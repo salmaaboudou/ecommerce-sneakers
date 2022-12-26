@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c04be1a3254fd3622b98",
-    "url": "/ecommerce-sneakers/static/css/main.17670ad5.chunk.css"
+    "revision": "afe793fe24650a72cb5f",
+    "url": "/ecommerce-sneakers/static/css/main.d65c36ab.chunk.css"
   },
   {
-    "revision": "c04be1a3254fd3622b98",
-    "url": "/ecommerce-sneakers/static/js/main.c04be1a3.chunk.js"
+    "revision": "afe793fe24650a72cb5f",
+    "url": "/ecommerce-sneakers/static/js/main.afe793fe.chunk.js"
   },
   {
     "revision": "9c43dc20a976c6f5c545",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ecommerce-sneakers/static/media/image-product-4.5e95fcb4.jpg"
   },
   {
-    "revision": "88503524ba87127eac2976b586108ee2",
+    "revision": "5c591e2ad6b06a44a92fddad04dca905",
     "url": "/ecommerce-sneakers/index.html"
   }
 ];
