@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "afe793fe24650a72cb5f",
-    "url": "/ecommerce-sneakers/static/css/main.d65c36ab.chunk.css"
+    "revision": "de748525e55bc3858c93",
+    "url": "/ecommerce-sneakers/static/css/main.8d029b11.chunk.css"
   },
   {
-    "revision": "afe793fe24650a72cb5f",
-    "url": "/ecommerce-sneakers/static/js/main.afe793fe.chunk.js"
+    "revision": "de748525e55bc3858c93",
+    "url": "/ecommerce-sneakers/static/js/main.de748525.chunk.js"
   },
   {
-    "revision": "9c43dc20a976c6f5c545",
-    "url": "/ecommerce-sneakers/static/js/1.9c43dc20.chunk.js"
+    "revision": "0b14a051f4c47a5ef38f",
+    "url": "/ecommerce-sneakers/static/css/1.778ae180.chunk.css"
+  },
+  {
+    "revision": "0b14a051f4c47a5ef38f",
+    "url": "/ecommerce-sneakers/static/js/1.0b14a051.chunk.js"
   },
   {
     "revision": "709cd2838a689d7f848b",
@@ -52,7 +56,23 @@ self.__precacheManifest = [
     "url": "/ecommerce-sneakers/static/media/image-product-4.5e95fcb4.jpg"
   },
   {
-    "revision": "5c591e2ad6b06a44a92fddad04dca905",
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/ecommerce-sneakers/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/ecommerce-sneakers/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/ecommerce-sneakers/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/ecommerce-sneakers/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "6e3da05b074ca232b49d53bdcaa95941",
     "url": "/ecommerce-sneakers/index.html"
   }
 ];

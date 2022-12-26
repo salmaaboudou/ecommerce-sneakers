@@ -1,9 +1,10 @@
 {
-  "main.css": "/ecommerce-sneakers/static/css/main.d65c36ab.chunk.css",
-  "main.js": "/ecommerce-sneakers/static/js/main.afe793fe.chunk.js",
-  "main.js.map": "/ecommerce-sneakers/static/js/main.afe793fe.chunk.js.map",
-  "static/js/1.9c43dc20.chunk.js": "/ecommerce-sneakers/static/js/1.9c43dc20.chunk.js",
-  "static/js/1.9c43dc20.chunk.js.map": "/ecommerce-sneakers/static/js/1.9c43dc20.chunk.js.map",
+  "main.css": "/ecommerce-sneakers/static/css/main.8d029b11.chunk.css",
+  "main.js": "/ecommerce-sneakers/static/js/main.de748525.chunk.js",
+  "main.js.map": "/ecommerce-sneakers/static/js/main.de748525.chunk.js.map",
+  "static/css/1.778ae180.chunk.css": "/ecommerce-sneakers/static/css/1.778ae180.chunk.css",
+  "static/js/1.0b14a051.chunk.js": "/ecommerce-sneakers/static/js/1.0b14a051.chunk.js",
+  "static/js/1.0b14a051.chunk.js.map": "/ecommerce-sneakers/static/js/1.0b14a051.chunk.js.map",
   "runtime~main.js": "/ecommerce-sneakers/static/js/runtime~main.709cd283.js",
   "runtime~main.js.map": "/ecommerce-sneakers/static/js/runtime~main.709cd283.js.map",
   "static/media/icon-delete.svg": "/ecommerce-sneakers/static/media/icon-delete.b0321cb3.svg",
@@ -15,8 +16,10 @@
   "static/media/image-product-2.jpg": "/ecommerce-sneakers/static/media/image-product-2.dc5f56d9.jpg",
   "static/media/image-product-3.jpg": "/ecommerce-sneakers/static/media/image-product-3.d8f0fd25.jpg",
   "static/media/image-product-4.jpg": "/ecommerce-sneakers/static/media/image-product-4.5e95fcb4.jpg",
-  "static/css/main.d65c36ab.chunk.css.map": "/ecommerce-sneakers/static/css/main.d65c36ab.chunk.css.map",
+  "static/media/slick-theme.css": "/ecommerce-sneakers/static/media/slick.f97e3bbf.svg",
+  "static/css/main.8d029b11.chunk.css.map": "/ecommerce-sneakers/static/css/main.8d029b11.chunk.css.map",
+  "static/css/1.778ae180.chunk.css.map": "/ecommerce-sneakers/static/css/1.778ae180.chunk.css.map",
   "index.html": "/ecommerce-sneakers/index.html",
-  "precache-manifest.355d438b08ccda785c79137e2acd7ceb.js": "/ecommerce-sneakers/precache-manifest.355d438b08ccda785c79137e2acd7ceb.js",
+  "precache-manifest.808e8e8056cebe03b061880f7128f23b.js": "/ecommerce-sneakers/precache-manifest.808e8e8056cebe03b061880f7128f23b.js",
   "service-worker.js": "/ecommerce-sneakers/service-worker.js"
 }
