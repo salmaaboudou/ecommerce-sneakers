@@ -1,0 +1,161 @@
+:root{
+    --Orange: hsl(26, 100%, 55%);
+    --Pale-orange: hsl(25, 100%, 94%);
+    --Very-dark-blue: hsl(220, 13%, 13%);
+    --Dark-grayish-blue: hsl(219, 9%, 45%);
+    --Grayish-blue: hsl(220, 14%, 75%);
+    --Light-grayish-blue: hsl(223, 64%, 98%);
+    --White: hsl(0, 0%, 100%);
+    --Black: hsl(0, 0%, 0%);
+}
+
+@media (max-width: 985px) {
+  /* MOBILE */
+
+  .navbar-brand {
+    padding: 10px;
+    height: 30px;
+  }
+  
+  .nav-link{
+    display: none;
+  }
+
+  .navbar-brand{
+    height:28px;
+    padding-left: 4rem;
+
+  }
+
+  .navbar{
+    padding: 10px  !important;
+  }
+
+  .image-avatar-link img{
+    height: 30px !important;
+
+  }
+  
+
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    padding: 1rem;
+   
+}
+
+.nav-container-one{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.nav-container-two{
+  position: relative;
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5%;
+    
+}
+
+.nav-link {
+  font-family: "Kumbh Sans", sans-serif;
+  position: relative;
+  margin: 0 1em;
+  text-decoration: none;
+  font-size: 16px;
+  color:var(--Dark-grayish-blue)
+}
+
+.nav-link:hover{
+    color: var(--Black);
+}
+
+.nav-link::after {
+  position: absolute;
+  top: 3.2rem;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: var(--Orange);
+  width: 0%;
+  content: "";
+  height: 4px;
+  transition: all 0.5s;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.image-avatar-link{
+    border: none;
+}
+
+.image-avatar-link img{
+  height: 35px;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  transition: 0.1s ease-in-out;
+}
+
+.image-avatar-link img:hover {
+  cursor: pointer;
+  border: 2px solid var(--Orange);
+  border-radius: 50%;
+}
+
+.icon-cart-link {
+  background: transparent;
+  width:49px; 
+  height:50px;
+  border: none;
+  fill: var(--Dark-grayish-blue);
+  position: relative;
+}
+
+.cart-count{
+  position: absolute;
+  background-color: var(--Orange);
+  color:white;
+  border-radius: 7px;
+  width: 20px;
+  font-size: 11px;
+  font-weight: 700;
+  right:5px ;
+  top:6px;
+  padding: 1px;
+}
+
+.icon-cart-link svg{
+  width: 45px;
+  height: 30px;
+}
+
+.icon-cart-link:hover{
+    cursor: pointer;
+    fill: var(--Black) !important;
+    font-weight: bold;
+}
+
+.avatar-cart-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+

@@ -1,0 +1,49 @@
+.carrousel-buttons{
+    z-index: 1000;
+
+    
+}
+
+.carrousel-buttons button{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 40%;
+    border: 10px solid white;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.carrousel-buttons img{
+    fill: black;
+    width: 14px;
+    
+}
+
+.carrousel-buttons .left-button{
+    right: 85%;
+}
+
+.carrousel-buttons .right-button{
+    left: 85%;
+}
+
+@media (min-width:648px) and (max-width:995px){
+    .carrousel-buttons button{
+        top: 60%;
+       
+    }
+
+    .carrousel-buttons .left-button{
+        right: 90%;
+    }
+    
+    .carrousel-buttons .right-button{
+        left: 90%;
+    }
+}
