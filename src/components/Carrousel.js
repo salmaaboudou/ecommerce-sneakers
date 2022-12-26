@@ -1,6 +1,8 @@
 import React from "react";
 import "../styles/index.css";
 import "../styles/Carrousel.css";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import { useState } from "react";
 import useMedia from "use-media";
 import Slider from "react-slick";

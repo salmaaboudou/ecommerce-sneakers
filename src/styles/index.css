@@ -12,7 +12,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
-body, html{
+body{
     margin: 0;
     font-size: 16px;
     font-family: "Kumbh Sans", sans-serif;
@@ -21,8 +21,10 @@ body, html{
 }
 
 @media (max-width: 985px) {
-    body,html{
+    body{
         padding: 0;
+        border-right: 0;
+
     }
 }
 
