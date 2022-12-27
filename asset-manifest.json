@@ -1,7 +1,7 @@
 {
-  "main.css": "/ecommerce-sneakers/static/css/main.8d029b11.chunk.css",
-  "main.js": "/ecommerce-sneakers/static/js/main.de748525.chunk.js",
-  "main.js.map": "/ecommerce-sneakers/static/js/main.de748525.chunk.js.map",
+  "main.css": "/ecommerce-sneakers/static/css/main.60808225.chunk.css",
+  "main.js": "/ecommerce-sneakers/static/js/main.73b93d62.chunk.js",
+  "main.js.map": "/ecommerce-sneakers/static/js/main.73b93d62.chunk.js.map",
   "static/css/1.778ae180.chunk.css": "/ecommerce-sneakers/static/css/1.778ae180.chunk.css",
   "static/js/1.0b14a051.chunk.js": "/ecommerce-sneakers/static/js/1.0b14a051.chunk.js",
   "static/js/1.0b14a051.chunk.js.map": "/ecommerce-sneakers/static/js/1.0b14a051.chunk.js.map",
@@ -17,9 +17,9 @@
   "static/media/image-product-3.jpg": "/ecommerce-sneakers/static/media/image-product-3.d8f0fd25.jpg",
   "static/media/image-product-4.jpg": "/ecommerce-sneakers/static/media/image-product-4.5e95fcb4.jpg",
   "static/media/slick-theme.css": "/ecommerce-sneakers/static/media/slick.f97e3bbf.svg",
-  "static/css/main.8d029b11.chunk.css.map": "/ecommerce-sneakers/static/css/main.8d029b11.chunk.css.map",
+  "static/css/main.60808225.chunk.css.map": "/ecommerce-sneakers/static/css/main.60808225.chunk.css.map",
   "static/css/1.778ae180.chunk.css.map": "/ecommerce-sneakers/static/css/1.778ae180.chunk.css.map",
   "index.html": "/ecommerce-sneakers/index.html",
-  "precache-manifest.808e8e8056cebe03b061880f7128f23b.js": "/ecommerce-sneakers/precache-manifest.808e8e8056cebe03b061880f7128f23b.js",
+  "precache-manifest.87db9360961711f2326a69d9f5e2047d.js": "/ecommerce-sneakers/precache-manifest.87db9360961711f2326a69d9f5e2047d.js",
   "service-worker.js": "/ecommerce-sneakers/service-worker.js"
 }
