@@ -17,9 +17,9 @@ function Navbar(props) {
   return (
     <nav className="navbar">
       <div className="nav-container-one">
-        <a href="/" className="navbar-brand">
+        <div className="navbar-brand">
           <img src={logo} alt="CoolBrand" />
-        </a>
+        </div>
         <div className="nav-items">
           <NavItem navLink="Collections" />
           <NavItem navLink="Men" />

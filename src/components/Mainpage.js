@@ -33,6 +33,8 @@ function Mainpage(props) {
             <Cartcounter 
             total={props.total}
             setTotal={props.setTotal}
+            amountToAdd={props.amountToAdd}
+            setAmountToAdd={props.setAmountToAdd}
             />
           </div>
         </div>

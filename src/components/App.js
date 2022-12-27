@@ -6,7 +6,7 @@ import { useState } from "react";
 
 function App() {
   const [total, setTotal] = useState(0);
-
+  const [amountToAdd, setAmountToAdd] = useState(0);
 
   return (
     <div>
@@ -14,10 +14,14 @@ function App() {
       <Navbar
         total={total}
         setTotal={setTotal}
+        amountToAdd={amountToAdd}
+        setAmountToAdd={setAmountToAdd}
       />
       <Mainpage
         total={total}
         setTotal={setTotal}
+        amountToAdd={amountToAdd}
+        setAmountToAdd={setAmountToAdd}
       />
     </div>
   );

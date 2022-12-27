@@ -8,22 +8,19 @@ function Cartcounter(props) {
 
   // const [cart, setCart] = useState([]);
 
-  const [amountToAdd, setAmountToAdd] = useState(0);
-
   const handleClick = () => {
-    props.setTotal(props.total + amountToAdd)
-    setAmountToAdd(0)
+    props.setTotal(props.amountToAdd)
   }
   
 
   return (
     <div className="add-to-cart-container2">
       <div className="cart-counter">
-        <button onClick={() => amountToAdd > 0 ? setAmountToAdd(amountToAdd - 1) : null} className="moins-button">
+        <button onClick={() => props.amountToAdd > 0 ? props.setAmountToAdd(props.amountToAdd - 1) : null} className="moins-button">
             <img src={moinsIcon} alt="icon moins" />
         </button>
-        <p>{amountToAdd}</p>
-        <button onClick={() => setAmountToAdd(amountToAdd + 1)} className="plus-button">
+        <p>{props.amountToAdd}</p>
+        <button onClick={() => props.setAmountToAdd(props.amountToAdd + 1)} className="plus-button">
             <img src={plusIcon} alt="icon plus" />
         </button>
       </div>

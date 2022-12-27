@@ -65,7 +65,7 @@
 
 .cart-container {
   padding: 12px;
-  top: 100%;
+  top: 130%;
   right: 50%;
   position: absolute;
   z-index:1000;
@@ -146,6 +146,8 @@
 }
 
 .checkout-button:hover {
-  opacity: 70%;
-  cursor: pointer;
+  cursor: pointer !important;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+  background-color: rgba(238, 136, 52, 0.802);
+
 }
