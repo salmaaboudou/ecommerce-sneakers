@@ -41,6 +41,10 @@
     .right-container{
         padding-top: 15% !important;
     }
+    
+    .left-container{
+    overflow-x: hidden !important;
+    }
 
     .left-container{
         overflow-x: hidden !important;
